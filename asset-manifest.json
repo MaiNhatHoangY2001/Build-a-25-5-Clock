@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Build-a-25-5-Clock/static/css/main.fe8ab445.css",
+    "main.js": "/Build-a-25-5-Clock/static/js/main.e3e87495.js",
+    "index.html": "/Build-a-25-5-Clock/index.html",
+    "main.fe8ab445.css.map": "/Build-a-25-5-Clock/static/css/main.fe8ab445.css.map",
+    "main.e3e87495.js.map": "/Build-a-25-5-Clock/static/js/main.e3e87495.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe8ab445.css",
+    "static/js/main.e3e87495.js"
+  ]
+}
